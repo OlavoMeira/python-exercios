@@ -8,4 +8,15 @@ c) Opção: de 3 até 10 vezes com 3% de juros ao mês (somente para compras aci
 
 
 def main():
-    
+    while True:
+        print("=" * 30)
+        print("WELCOME TO MY SHOP")
+        print("=" * 30)
+
+        
+        print("1 - Shirt $40 ")
+        print("2 - Pants $70 ")
+        print("3 - Shoes $100 ")
+        print("0 - Sair da loja")
+        
+
