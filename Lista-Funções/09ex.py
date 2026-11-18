@@ -39,6 +39,6 @@ def main():
     verifica_triangulo(x, y, z)
 
 
-# Executa o programa
+
 if __name__ == "__main__":
     main()
